@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+
+}
+.constyleimg{
+    position: relative;
+ width: 300px;
+ display: flex;
+ margin-left: 300px;
+ padding-bottom: 30px;
+ padding-top: 30px;
+
+}
+.conten-container{
+   position: absolute;
+   bottom: 40px;
+ 
+  background: rgba(202, 202, 8, 0.677)
+    
+    
+   
+
+}
+.comtai-img{
+
+
+}
+.heading{
+
+display: flex;
+justify-content: center;
+align-items: center;  
+
+}
+.imgsty{
+    width: 45%;
+}
+.heading-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+    padding: 40x;
+    
+    
+}
+.heading-img img{
+    width:100%;
+   border-top: 5px solid rgb(238, 221, 36);
+    
+    
+}
